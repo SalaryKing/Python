@@ -80,12 +80,12 @@ plt.savefig('city_dist.png', dpi=300, bbox_inches='tight')
 ## **五、最终成果展示**
 | 图表类型 | 示例输出 |
 |----------|----------|
-| 省份分布 | ![province_distribution](https://github.com/user-attachments/assets/d6b8082d-b437-4329-a0da-177700912f92)
-|
-| 城市分布 | ![city_distribution](https://github.com/user-attachments/assets/3033eb28-f09c-48d2-b154-0f70411fc449)
-|
-| 省份占比 | ![province_pie](https://github.com/user-attachments/assets/b5f2ceca-5ad1-4524-b093-9c59e1a9a7ad)
- |
+| 省份分布 | ![省份柱状图](![province_distribution](https://github.com/user-attachments/assets/56c7ae68-dfea-4f26-b869-b2eb6992d718)
+) |
+| 城市分布 | ![城市柱状图](![city_distribution](https://github.com/user-attachments/assets/c1d48d42-29cd-4934-a63d-637139cdda31)
+) |
+| 省份占比 | ![省份饼图](![province_pie](https://github.com/user-attachments/assets/122dde7d-7e08-461a-a9a4-d6a67f349d79)
+) |
 
 ---
 
