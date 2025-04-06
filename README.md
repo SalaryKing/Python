@@ -98,7 +98,7 @@ plt.savefig('city_dist.png', dpi=300, bbox_inches='tight')
    - 推送前务必先`git pull`
    - 使用`-u`参数设置默认推送分支
 
-完整代码已开源：[GitHub仓库链接](#)
+完整代码已开源：[GitHub仓库链接](https://github.com/SalaryKing/Python/tree/main)
 
 ---
 
