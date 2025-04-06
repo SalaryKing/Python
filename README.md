@@ -153,13 +153,9 @@ if __name__ == "__main__":
 
 ## **五、运行结果**
 执行代码后，会生成3张图片：
-1. `province_distribution.png` - 省份分布柱状图  
-   ![省份分布示例](https://via.placeholder.com/600x400?text=Province+Distribution)
-2. `city_distribution.png` - 城市分布柱状图  
-   ![城市分布示例](https://via.placeholder.com/600x400?text=City+Distribution)
-3. `province_pie.png` - 省份占比饼图  
-   ![饼图示例](https://via.placeholder.com/600x400?text=Province+Pie+Chart)
-
+1. `province_distribution.png` - 省份分布柱状图  ![province_distribution](https://github.com/user-attachments/assets/bbfe1ca0-d33f-4fa0-8390-3a580c8b7342)
+2. `city_distribution.png` - 城市分布柱状图  ![city_distribution](https://github.com/user-attachments/assets/aec2a946-bfcc-4537-b33a-5854b292cdf6)
+3. `province_pie.png` - 省份占比饼图  ![province_pie](https://github.com/user-attachments/assets/9c095f84-8599-43ef-a803-3d48a3f41d91)
 ---
 
 ## **六、优化与扩展**
